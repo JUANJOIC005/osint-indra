@@ -3,10 +3,51 @@
   author: "JUANJOIC005"
 )
 
-#set align(center)
+#set page(
+  paper: "a4",
+  margin: (x: 2.5cm, y: 2.5cm),
+)
 
-#heading(level: 1)[
-Análisis OSINT pasivo de INDRA
+#align(center)[
+  #text(size: 28pt, weight: "bold")[Análisis OSINT Pasivo]
+
+  #v(0.5cm)
+
+  #text(size: 20pt)[Empresa del IBEX35]
+
+  #v(0.8cm)
+
+  #text(size: 24pt, weight: "bold")[INDRA GROUP]
+
+  #v(1.5cm)
+
+  #line(length: 60%)
+
+  #v(1.5cm)
+
+  #text(size: 14pt)[Práctica 1 — Técnicas de Hacking]
+
+  #v(0.5cm)
+
+  #text(size: 12pt)[Reconocimiento pasivo mediante técnicas OSINT]
+
+  #v(2cm)
+
+  #text(size: 12pt)[
+  Autor: Juanjo IC  
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 12pt)[
+  Universidad Europea
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 12pt)[
+  2026
+  ]
 ]
 
 #pagebreak()

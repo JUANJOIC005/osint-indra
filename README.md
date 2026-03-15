@@ -91,23 +91,25 @@ Durante la investigación se identificaron:
 ---
 
 #  Estructura del repositorio
+
+```
 osint-indra
-│
 ├── docs
-│ ├── informe.typ
-│ ├── referencias.bib
-│ └── images
+│   ├── informe.typ
+│   ├── referencias.bib
+│   └── images
 │
 ├── data
-│ ├── raw
-│ └── processed
+│   ├── raw
+│   └── processed
 │
 ├── P1_Reconocimiento_pasivo
-│ ├── src
-│ └── results
+│   ├── src
+│   └── results
 │
 ├── pyproject.toml
 └── README.md
+```
 
 
 ---
